@@ -15,7 +15,7 @@
 
 ## 🎓 About Me
 
-**<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Computer+Science+Student;Software+Developer;Tech+Enthusiast" alt="Typing SVG" />**  
+🎯 **<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Computer+Science+Student;Software+Developer;Tech+Enthusiast" alt="Typing SVG" />**  
 💻 Passionate about technology and software development  
 🌱 Always learning and exploring new technologies  
 🚀 Turning coffee into code since 2023
@@ -44,6 +44,8 @@ Python     ████████████████░░░░  80%
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frameworks & Tools:**
@@ -107,7 +109,7 @@ Python     ████████████████░░░░  80%
 
 ```
 ╔═══════════════════════════════════════════════════════╗
-║  "First, solve the problem. Then, write the code."    ║
+║  "First, solve the problem. Then, write the code."   ║
 ║                                    - John Johnson     ║
 ╚═══════════════════════════════════════════════════════╝
 ```
