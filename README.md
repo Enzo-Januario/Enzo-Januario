@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my profile
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="600">
 </div>
 
 ```
@@ -57,9 +57,9 @@ Python     ████████████████░░░░  80%
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enzo-Januario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Januario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 </div>
 
