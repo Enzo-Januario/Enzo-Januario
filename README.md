@@ -1,5 +1,9 @@
 # 👋 Hello! Welcome to my profile
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+</div>
+
 ```
   ____                            _              ____       _                       
  / ___|___  _ __ ___  _ __  _   _| |_ ___ _ __  / ___|  ___(_) ___ _ __   ___ ___  
@@ -11,7 +15,7 @@
 
 ## 🎓 About Me
 
-**<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Computer+Science+Student;Software+Developer;Tech+Enthusiast" alt="Typing SVG" />**  
+🎯 **<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Computer+Science+Student;Software+Developer;Tech+Enthusiast" alt="Typing SVG" />**  
 💻 Passionate about technology and software development  
 🌱 Always learning and exploring new technologies  
 🚀 Turning coffee into code since 2023
