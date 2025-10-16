@@ -11,7 +11,7 @@
 
 ## 🎓 About Me
 
-🎯 **Computer Science** Student  
+🎯 **<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Computer+Science+Student;Software+Developer;Tech+Enthusiast" alt="Typing SVG" />**  
 💻 Passionate about technology and software development  
 🌱 Always learning and exploring new technologies  
 🚀 Turning coffee into code since 2023
