@@ -4,31 +4,34 @@
   <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" width="100%">
 </div>
 
----
+```
+  ____                            _              ____       _                       
+ / ___|___  _ __ ___  _ __  _   _| |_ ___ _ __  / ___|  ___(_) ___ _ __   ___ ___  
+| |   / _ \| '_ ` _ \| '_ \| | | | __/ _ \ '__| \___ \ / __| |/ _ \ '_ \ / __/ _ \ 
+| |__| (_) | | | | | | |_) | |_| | ||  __/ |     ___) | (__| |  __/ | | | (_|  __/ 
+ \____\___/|_| |_| |_| .__/ \__,_|\__\___|_|    |____/ \___|_|\___|_| |_|\___\___| 
+                     |_|                                                            
+```
 
 ## 🎓 About Me
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Computer+Science+Student;Software+Developer;Tech+Enthusiast" alt="Typing SVG" />
-
-💻 Apaixonado por tecnologia e desenvolvimento de software
-🎓 Cursando Ciência da Computação — Xº semestre na [Nome da Faculdade]
-🌱 Atualmente estudando React + Node.js para desenvolvimento fullstack
-🚀 Desenvolvendo código desde 2023
-🔍 Buscando oportunidade como Desenvolvedor Jr. / Estágio em Dev
+**<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Computer+Science+Student;Software+Developer;Tech+Enthusiast" alt="Typing SVG" />**  
+💻 Passionate about technology and software development  
+🌱 Always learning and exploring new technologies  
+🚀 Turning coffee into code since 2023
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Proficiency
+### 💻 Programming Languages
 
 ```text
-JavaScript █████████████████░░░  85%
 C          ████████████████░░░░  80%
-Python     ████████████████░░░░  80%
 Java       ███████████████░░░░░  75%
 C#         ██████████████░░░░░░  70%
-Kotlin     ████████░░░░░░░░░░░░  40%
+JavaScript █████████████████░░░  85%
+Python     ████████████████░░░░  80%
 ```
 
 ### 🎨 Tech Stack
@@ -48,30 +51,18 @@ Kotlin     ████████░░░░░░░░░░░░  40%
 **Frameworks & Tools:**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Enzo-Januario&repo=NOME_DO_REPO_1&theme=radical)](https://github.com/Enzo-Januario/NOME_DO_REPO_1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Enzo-Januario&repo=NOME_DO_REPO_2&theme=radical)](https://github.com/Enzo-Januario/NOME_DO_REPO_2)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Enzo-Januario&repo=NOME_DO_REPO_3&theme=radical)](https://github.com/Enzo-Januario/NOME_DO_REPO_3)
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enzo-Januario&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Januario&layout=compact&theme=radical"/>
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enzo-Januario&show_icons=true&theme=radical)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Enzo-Januario&theme=radical&locale=pt_BR" alt="GitHub Streak"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Januario&layout=compact&theme=radical)
+
 </div>
 
 ---
@@ -79,21 +70,13 @@ Kotlin     ████████░░░░░░░░░░░░  40%
 ## 🎯 Areas of Interest
 
 ```
-▸ Web Development (Frontend & Backend)
+▸ Web Development
 ▸ Mobile Development (Android)
 ▸ Algorithms and Data Structures
+▸ Software Development
 ▸ Object-Oriented Programming
+▸ Backend & Frontend
 ▸ Database Management (SQL)
-```
-
----
-
-## 📚 Currently Learning
-
-```
-▸ React — Componentes, Hooks e SPA
-▸ Node.js — APIs REST e Express
-▸ TypeScript — Tipagem estática em JS
 ```
 
 ---
@@ -112,10 +95,21 @@ Kotlin     ████████░░░░░░░░░░░░  40%
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+### 💭 Quote of the Day
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Enzo-Januario.Enzo-Januario)
+*"The best way to predict the future is to invent it."* - Alan Kay
 
-**Thanks for visiting! ⭐ 🇧🇷**
+**Thanks for visiting! ⭐**
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
 
 </div>
+
+---
+
+```
+╔═══════════════════════════════════════════════════════╗
+║  "First, solve the problem. Then, write the code."    ║
+║                                    - John Johnson     ║
+╚═══════════════════════════════════════════════════════╝
+```
