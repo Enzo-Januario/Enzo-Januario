@@ -1,42 +1,39 @@
-# 👋 Hello! Welcome to my profile
+# 👋 Hi! I'm Enzo Januário
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" width="100%" alt="Mario banner">
 </div>
 
-```
-  ____                            _              ____       _                       
- / ___|___  _ __ ___  _ __  _   _| |_ ___ _ __  / ___|  ___(_) ___ _ __   ___ ___  
-| |   / _ \| '_ ` _ \| '_ \| | | | __/ _ \ '__| \___ \ / __| |/ _ \ '_ \ / __/ _ \ 
-| |__| (_) | | | | | | |_) | |_| | ||  __/ |     ___) | (__| |  __/ | | | (_|  __/ 
- \____\___/|_| |_| |_| .__/ \__,_|\__\___|_|    |____/ \___|_|\___|_| |_|\___\___| 
-                     |_|                                                            
-```
+<div align="center">
 
-## 🎓 About Me
+**Computer Science Student • Software Developer • Tech Enthusiast**
 
-**<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Computer+Science+Student;Software+Developer;Tech+Enthusiast" alt="Typing SVG" />**  
-💻 Passionate about technology and software development  
-🌱 Always learning and exploring new technologies  
-🚀 Turning coffee into code since 2023
+<a href="mailto:enzojanuario14@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/enzo-januario-98ab55274" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/enzojanuario14" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧑‍💻 About Me
 
-### 💻 Programming Languages
+- 💻 Focused on **software development** (web and mobile)
+- 🌱 Always learning: **best practices, architecture, and algorithms**
+- 🚀 Turning coffee into code since 2023
 
-```text
-C          ████████████████░░░░  80%
-Java       ███████████████░░░░░  75%
-C#         ██████████████░░░░░░  70%
-JavaScript █████████████████░░░  85%
-Python     ████████████████░░░░  80%
-```
+---
 
-### 🎨 Tech Stack
+## 🛠️ Tech Stack & Tools
 
-**Languages:**
+### Languages
+<div>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -44,72 +41,51 @@ Python     ████████████████░░░░  80%
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frameworks & Tools:**
+</div>
+
+### Front-end / Mobile / Tools
+<div>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
+</div>
+
 ---
 
-## 📊 GitHub Statistics
+## 🎯 Interests
+
+- 🌐 Web Development (Front-end and Back-end)
+- 📱 Mobile Development (Android / Kotlin)
+- 🧠 Algorithms and Data Structures
+- 🧱 Object-Oriented Programming and best practices
+- 🗃️ Databases (SQL)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enzo-Januario&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Januario&layout=compact&theme=radical)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Enzo-Januario&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Januario&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🎯 Areas of Interest
+## 💬 Quote
 
-```
-▸ Web Development
-▸ Mobile Development (Android)
-▸ Algorithms and Data Structures
-▸ Software Development
-▸ Object-Oriented Programming
-▸ Backend & Frontend
-▸ Database Management (SQL)
-```
-
----
-
-## 📫 Let's Connect!
+> “First, solve the problem. Then, write the code.” — John Johnson
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-januario-98ab55274)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzojanuario14@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/enzojanuario14)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Enzo-Januario.Enzo-Januario" alt="Visitors" />
+
+**Thanks for visiting!** ⭐
 
 </div>
-
----
-
-<div align="center">
-
-### 💭 Quote of the Day
-
-*"The best way to predict the future is to invent it."* - Alan Kay
-
-**Thanks for visiting! ⭐**
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
-
-</div>
-
----
-
-```
-╔═══════════════════════════════════════════════════════╗
-║  "First, solve the problem. Then, write the code."    ║
-║                                    - John Johnson     ║
-╚═══════════════════════════════════════════════════════╝
-```
