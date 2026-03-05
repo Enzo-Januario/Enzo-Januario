@@ -143,7 +143,7 @@ val enzo = Developer(
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Enzo-Januario&theme=transparent&hide_border=true&locale=pt_BR&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9&background=0d1117" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Enzo-Januario&theme=dark&hide_border=true&locale=pt_BR&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&background=0d1117" />
 </div>
 
 <div align="center">
@@ -156,7 +156,7 @@ val enzo = Developer(
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/Enzo-Januario-98ab55274">
+<a href="https://www.linkedin.com/in/enzo-januario-98ab55274">
   <img src="https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=a78bfa" />
 </a>&nbsp;
 <a href="mailto:enzojanuario14@gmail.com">
