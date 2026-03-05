@@ -138,8 +138,8 @@ val enzo = Developer(
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Enzo-Januario&show_icons=true&theme=github_dark_dimmed&count_private=true&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Januario&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+  <img src="https://readme-stats-github.pages.dev/api?username=Enzo-Januario&theme=shadow&show_icons=true&include_all_commits=true&count_private=true" height="160em"/>
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=Enzo-Januario&theme=shadow&layout=compact&langs_count=8" height="160em"/>
 </div>
 
 <div align="center">
