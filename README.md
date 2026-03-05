@@ -143,7 +143,7 @@ val enzo = Developer(
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Enzo-Januario&theme=dark&hide_border=true&locale=pt_BR&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&background=0d1117" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Enzo-Januario&theme=dark&hide_border=true&locale=pt_BR&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&background=0d1117" />
 </div>
 
 <div align="center">
