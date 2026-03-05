@@ -156,7 +156,7 @@ val enzo = Developer(
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/enzo-januario-98ab55274">
+<a href="https://www.linkedin.com/in/Enzo-Januario-98ab55274">
   <img src="https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=a78bfa" />
 </a>&nbsp;
 <a href="mailto:enzojanuario14@gmail.com">
