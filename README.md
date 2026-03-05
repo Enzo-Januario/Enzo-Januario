@@ -142,6 +142,14 @@ val enzo = Developer(
   <img src="https://readme-stats-github.pages.dev/api/top-langs?username=Enzo-Januario&theme=shadow&layout=compact&langs_count=8" height="160em"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Enzo-Januario&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" width="70%"/>
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enzo-Januario&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa&hide_border=true" width="95%"/>
 </div>
