@@ -4,21 +4,13 @@
   <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" width="100%">
 </div>
 
-```
-  ____                            _              ____       _                       
- / ___|___  _ __ ___  _ __  _   _| |_ ___ _ __  / ___|  ___(_) ___ _ __   ___ ___  
-| |   / _ \| '_ ` _ \| '_ \| | | | __/ _ \ '__| \___ \ / __| |/ _ \ '_ \ / __/ _ \ 
-| |__| (_) | | | | | | |_) | |_| | ||  __/ |     ___) | (__| |  __/ | | | (_|  __/ 
- \____\___/|_| |_| |_| .__/ \__,_|\__\___|_|    |____/ \___|_|\___|_| |_|\___\___| 
-                     |_|                                                            
-```
-
 ## 🎓 About Me
 
-**<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Computer+Science+Student;Software+Developer;Tech+Enthusiast" alt="Typing SVG" />**  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Computer+Science+Student;Software+Developer;Tech+Enthusiast" alt="Typing SVG" />
+
 💻 Passionate about technology and software development  
 🌱 Always learning and exploring new technologies  
-🚀 Turning coffee into code since 2023
+🚀 Turning coffee into code since 2023  
 
 ---
 
@@ -27,42 +19,42 @@
 ### 💻 Programming Languages
 
 ```text
-C          ████████████████░░░░  80%
-Java       ███████████████░░░░░  75%
-C#         ██████████████░░░░░░  70%
-JavaScript █████████████████░░░  85%
-Python     ████████████████░░░░  80%
+C              ████████████████░░░░ 80%
+Java           ███████████████░░░░░ 75%
+JavaScript     █████████████████░░░ 85%
+Python         ████████████████░░░░ 80%
+Kotlin         █████████████░░░░░░░ 65%
 ```
 
 ### 🎨 Tech Stack
 
-**Languages:**
-
+**Languages:**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frameworks & Tools:**
-
+**Frameworks & Tools:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enzo-Januario&show_icons=true&theme=radical&count_private=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Januario&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enzo-Januario&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Januario&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Enzo-Januario&theme=radical&hide_border=true&locale=pt_BR" />
 </div>
 
 ---
@@ -76,7 +68,7 @@ Python     ████████████████░░░░  80%
 ▸ Software Development
 ▸ Object-Oriented Programming
 ▸ Backend & Frontend
-▸ Database Management (SQL)
+▸ Database Management (SQL & NoSQL)
 ```
 
 ---
@@ -97,11 +89,11 @@ Python     ████████████████░░░░  80%
 
 ### 💭 Quote of the Day
 
-*"The best way to predict the future is to invent it."* - Alan Kay
+*"The best way to predict the future is to invent it."* — Alan Kay
 
 **Thanks for visiting! ⭐**
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Enzo-Januario.Enzo-Januario)
+![Visitors](https://komarev.com/ghpvc/?username=Enzo-Januario&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -109,7 +101,7 @@ Python     ████████████████░░░░  80%
 
 ```
 ╔═══════════════════════════════════════════════════════╗
-║  "First, solve the problem. Then, write the code."    ║
-║                                    - John Johnson     ║
+║  "First, solve the problem. Then, write the code."   ║
+║                        - John Johnson                 ║
 ╚═══════════════════════════════════════════════════════╝
 ```
