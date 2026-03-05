@@ -143,10 +143,6 @@ val enzo = Developer(
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Enzo-Januario&theme=dark&hide_border=true&locale=pt_BR&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&background=0d1117" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enzo-Januario&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa&hide_border=true" width="95%"/>
 </div>
 
