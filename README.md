@@ -18,7 +18,7 @@
 
 ```kotlin
 val enzo = Developer(
-    university  = "Ciência da Computação · 6º Semestre",
+    university  = "Ciência da Computação · 8º Semestre",
     location    = "Curitiba, Brasil 🇧🇷",
     focus       = listOf("Web Dev", "Mobile Dev", "Full Stack"),
     currently   = "Construindo apps reais e aprendendo todo dia",
